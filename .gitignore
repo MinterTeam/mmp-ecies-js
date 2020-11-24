@@ -1,0 +1,8 @@
+/dist
+
+# dependencies
+node_modules
+/coverage
+
+# logs
+npm-debug.log
